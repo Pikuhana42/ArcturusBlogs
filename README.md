@@ -9,6 +9,7 @@
 - Added fonts
 - Changed the body to be easier on the eyes
 - Corrected font for body title
+- Hosted website on Vercel to allow for backend content instead of a github page
 
 ### Removed
 
