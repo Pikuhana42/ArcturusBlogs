@@ -25,4 +25,4 @@
 
 ### Added or Changed
 - Created website template through WordPress and uploaded it to github as a sample
-- Pointed domain to Github with Namecheap under https://www.ArtcurusBlogs.com
+- Pointed domain to Github with Namecheap under https://www.ArcturusBlogs.com
