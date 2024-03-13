@@ -1,0 +1,16 @@
+@font-face {
+    font-family: MyRubik;
+    src: url("/fonts/Rubik.ttf");
+}
+
+body{
+    background-color: #1a1a1a;
+}
+
+h1 {
+    line-height: 1.4;
+    color: #33ff10;
+    font-size: 18.4px;
+    font-family: MyRubik;
+    font-weight: 700;
+}
