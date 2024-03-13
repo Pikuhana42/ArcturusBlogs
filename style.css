@@ -1,16 +1,24 @@
 @font-face {
-    font-family: MyRubik;
+    font-family: CustomRubik;
     src: url("/fonts/Rubik.ttf");
+}
+
+@font-face {
+    font-family: JetBrainsMono;
+    src: url("/fonts/JetBrainsMono-Regular.ttf");
 }
 
 body{
     background-color: #1a1a1a;
+    color: #33ff10;
+    font-size: 19.2px;
+    font-family: JetBrainsMono;
 }
 
 h1 {
     line-height: 1.4;
     color: #33ff10;
     font-size: 18.4px;
-    font-family: MyRubik;
+    font-family: CustomRubik;
     font-weight: 700;
 }

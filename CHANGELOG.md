@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.2
+
+### Added or Changed
+- Added first sample paragraph
+- Added JetBrainsMono font
+- Changed MyRubik font to CustomRubik
+- Renamed this file to CHANGELOG.md instead of README.md
+
 ## v1.0.1
 
 ### Added or Changed
