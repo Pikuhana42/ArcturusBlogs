@@ -8,7 +8,7 @@
 - Renamed MyRubik font to CustomRubik
 - Renamed this file to CHANGELOG.md instead of README.md
 
-## v1.0.1 [02-20-24]
+## v1.0.1 [03-13-24]
 
 ### Added or Changed
 - Added this changelog
@@ -20,5 +20,10 @@
 - Hosted website on Vercel to allow for backend content instead of a Github page
 
 ### Removed
-
 - No longer uses WordPress as the site template
+
+## v1.0.0 [02-20-24]
+
+### Added or Changed
+-Created website template through WordPress and uploaded it to github as a sample
+-Pointed domain to Github with Namecheap under https://www.ArtcurusBlogs.com
