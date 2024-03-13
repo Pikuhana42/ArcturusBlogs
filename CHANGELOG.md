@@ -8,7 +8,7 @@
 - Renamed MyRubik font to CustomRubik
 - Renamed this file to CHANGELOG.md instead of README.md
 
-## v1.0.1 [03-13-24]
+## v1.0.1 [03-12-24]
 
 ### Added or Changed
 - Added this changelog
