@@ -1,13 +1,13 @@
 # Changelog
 
-##v1.0.3 [03-15-24]
+## v1.0.3 [03-15-24]
 
 ### Added or Changed
 - Added main.js
 - Added a comment area with a submit button
 - Added a test style to the comment submit box
 - Added a function to main.js that allows a variable to grab comments as a string
-- Upon submission string from comment box prints to js console
+- Upon submission string from comment box prints to js console  
 - Renamed CustomRubik once again to RubikC for ease of use
 
 ## v1.0.2 [03-13-24]
