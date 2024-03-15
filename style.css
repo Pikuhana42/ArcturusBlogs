@@ -1,6 +1,11 @@
 @font-face {
-    font-family: CustomRubik;
+    font-family: RubikC;
     src: url("/fonts/Rubik.ttf");
+}
+
+@font-face {
+    font-family: RubikSlim;
+    src: url("/fonts/RubikSlim.ttf");
 }
 
 @font-face {
@@ -19,6 +24,26 @@ h1 {
     line-height: 1.4;
     color: #33ff10;
     font-size: 18.4px;
-    font-family: CustomRubik;
+    font-family: RubikC;
     font-weight: 700;
+}
+
+textarea {
+    font-family: JetBrainsMono;
+    background: #2c2c2c;
+    border-color: #33ff10;
+    border-radius: 10px;
+    color:#33ff10;
+    outline: none;
+    resize: none;
+}
+
+input {
+    padding: 5px;
+    border-radius: 10px;
+    border-color: #33ff10;
+    font-size: 14.4px;
+    font-family: RubikSlim;
+    background: #2c2c2c;
+    color: #33ff10;
 }
