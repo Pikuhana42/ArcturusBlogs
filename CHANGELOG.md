@@ -26,6 +26,7 @@
 ### Added or Changed
 - Added tab header
 - Added favicon
+- Added a stylesheet @ style.css
 - Added two fonts, Rubik and RubikSlim
 
 ### Removed
