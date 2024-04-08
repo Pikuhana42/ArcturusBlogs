@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.1.0 [04-8-24]
+
+### Added or Changed
+- Reworked index.html to allow for use with flask backend
+- Reworked file system for use with flask
+- Using venv for python version organization
+- Added main.py to work with and run flask from
+- Added start.bat to easily start the backend server
+
 ## v1.0.4 [04-8-24]
 
 ### Added or Changed
