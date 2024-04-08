@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.4 [04-8-24]
+
+### Added or Changed
+- Reorganized css with a wrapper to make future changes easier
+- Text now centers on webpage and scales to window size
+- main.js now has a debug message that pops up in console when loaded
+- Added dummy text as paragraph instead of paragraph placeholder
+
 ## v1.0.3 [03-15-24]
 
 ### Added or Changed

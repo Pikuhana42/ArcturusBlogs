@@ -1,3 +1,4 @@
+console.log("main.js init")
 let userCommentForm = document.getElementById("commentBox");
 userCommentForm.addEventListener("submit", (e) => {
     e.preventDefault();
