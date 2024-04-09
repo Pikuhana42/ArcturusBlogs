@@ -4,7 +4,7 @@
 
 ### Added or Changed
 - Reorganized css with a wrapper to make future changes easier
-- Text now centers on webpage and scales to window size
+- Text now centers on webpage and scales with window size
 - main.js now has a debug message that pops up in console when loaded
 - Added dummy text as paragraph instead of paragraph placeholder
 
